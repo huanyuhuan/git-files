@@ -6,3 +6,7 @@
 * 桃子
 * 苹果
 * 葡萄
+
+---
+
+![你好吗](http://babeljs.cn/images/featurettes/blueprint.png)
